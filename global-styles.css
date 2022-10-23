@@ -1,0 +1,57 @@
+/* Your Global Styles */
+.text-end {
+    text-align: right !important;
+}
+ /*
+.main-sidebar {
+    background: #0b163f;
+}
+
+    .main-sidebar .sidebar-menu li ul.dropdown-menu li.active > a{
+        color:#fff
+    }
+
+    .main-sidebar .sidebar-menu li.active ul.dropdown-menu {
+        background: rgba(255,255,255,.075) !important;
+        color: #5472d4;
+        box-shadow: 0 0 30px rgb(8 20 73 / 10%);
+    }
+body:not(.sidebar-mini) .sidebar-style-2 .sidebar-menu > li.active > a {
+    background: rgba(255,255,255,.075) !important;
+    padding: 0px 5px !important;
+}
+body:not(.sidebar-mini) .sidebar-style-2 .sidebar-menu li.active ul.dropdown-menu li a {
+    background: none !important;
+}
+ul > .dropdown .active {
+    margin: 5px 10px;
+}
+
+ul .dropdown-menu {
+    margin: 0px;
+    padding: 0;
+}
+
+body:not(.sidebar-mini) .sidebar-style-2 .sidebar-menu > li.active > a:before{
+    display:none
+}
+
+.sidebar-menu {
+    padding: 0px 10px !important;
+}
+
+.main-sidebar .sidebar-brand a{
+    color:white
+}
+
+.main-sidebar .sidebar-menu li ul.dropdown-menu li a {
+    color: #fff;
+    opacity: .7
+}
+
+.main-sidebar .sidebar-menu li ul.dropdown-menu li a:hover {
+    color: #fff;
+    opacity: 1
+}*/
+
+
