@@ -721,7 +721,7 @@ if (offlineBtn || onlineBtn) {
 // ======================
 
 let preloader = document.getElementById('preloader');
-
+setti
 if (preloader) {
     window.addEventListener('load', function () {
         let fadeOut = setInterval(function () {
